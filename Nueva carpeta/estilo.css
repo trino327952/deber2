@@ -2,14 +2,70 @@
 
 .titulo{
 
-
-
- width: 1200px;
-  margin:auto;
+ 
+ margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 25px;
  padding:auto;
  border :2px solid orange;
  background-color: #33D1FF;
  color:white;
-
-
 }
+.t2{
+	
+	margin-top: 25px;
+	margin-right: 50px;
+	margin-left: 50px;
+      width: auto;    
+      border :2px solid orange;
+      border-top-right-radius:10px;
+      border-top-left-radius:10px;
+ 		 border-bottom-left-radius:20px;
+ 		  border-bottom-right-radius:10px;
+}
+#t3{
+  width: auto;
+  margin-right: 50px;
+	margin-left: 50px;
+	border-style: dotted;
+	border-color: green;
+	margin-top: 50px;
+}
+.t4{
+	margin-top: 25px;
+	margin-right: 50px;
+	margin-left: 50px;
+      width: auto;  
+      border :2px solid orange;
+      border-top-right-radius:10px;
+      border-top-left-radius:10px;
+ 		 border-bottom-left-radius:20px;
+ 		  border-bottom-right-radius:10px;
+}
+.t5{
+	  margin-right: 50px;
+	margin-left: 50px;
+
+	
+}
+.t6{
+	margin-top: 25px;
+	margin-right: 50px;
+	margin-left: 50px;
+      width: auto;  
+      border :2px solid orange;
+      border-top-right-radius:10px;
+      border-top-left-radius:10px;
+ 		 border-bottom-left-radius:20px;
+ 		  border-bottom-right-radius:10px;
+
+   }
+   .t7{
+   	 width: auto;
+  margin-right: 50px;
+	margin-left: 50px;
+	border-style: dotted;
+	border-color: green;
+	margin-top: 50px;
+
+   }
