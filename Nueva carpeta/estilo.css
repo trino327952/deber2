@@ -30,6 +30,7 @@
 	border-style: dotted;
 	border-color: green;
 	margin-top: 50px;
+		border-bottom-right-radius:50px;
 }
 .t4{
 	margin-top: 25px;
@@ -67,5 +68,6 @@
 	border-style: dotted;
 	border-color: green;
 	margin-top: 50px;
+	border-bottom-right-radius:50px;
 
    }
